@@ -6,12 +6,18 @@
     <string name="start">Lancer</string>
     <string name="stop">Arrêter</string>
     <string name="add">Ajouter</string>
-    <string name="choose_app">Sélectionner une application</string>
+    <string name="choose_app">Sélectionnez une application</string>
     <string name="icon_picker_type">Sélectionnez le type d\'icône:</string>
     <string name="icon_default">Par défaut</string>
     <string name="icon_custom">Personnalisé</string>
     <string name="unknown">Inconnue</string>
 
-    <string name="stop_to_remove">S\'il vous plaît arrêter le service avant de retirer une application</string>
+    <string name="stop_to_remove">Vous devriez arrêter le service de l'app avant de retirer cette même app de la liste pour éviter les bugs !</string>
+    
+    <string name="ext_note1">Note 1</string>
+    <string name="ext_note2">Note 2</string>
+    <string name="ext_note3">Note 3</string>
+    <string name="ext_note4">Note 4</string>
+    <string name="extensions">Extensions</string>
     
 </resources>
